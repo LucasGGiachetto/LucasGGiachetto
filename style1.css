@@ -179,3 +179,15 @@ main {
     animation-delay: 1s;
     /* Delay para que a imagem apareça depois do texto */
 }
+
+footer {
+    width: 100%;
+    height: 170px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    color: white;
+    text-align: center;
+}
