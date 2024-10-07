@@ -192,34 +192,6 @@ main {
     margin: 40px 20px 15px;
 } */
 
-.fun-facts {
-    background-color: #f4f4f4;
-    padding: 20px;
-    border-radius: 8px;
-    max-width: 600px;
-    margin: 90px auto;
-    /* float: right; */
-    
-
-}
-
-.fun-facts h2 {
-    font-size: 1.8em;
-    margin-bottom: 15px;
-    color: #333;
-    text-align: center;
-}
-
-.fun-facts ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.fun-facts li {
-    font-size: 1.2em;
-    margin-bottom: 10px;
-    line-height: 1.5;
-}
 
 hr {
     border: none; /* Remove as bordas padrão */
